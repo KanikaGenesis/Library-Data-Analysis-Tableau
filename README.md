@@ -31,7 +31,7 @@ Interactive Region Filtering and Sorting: Click on a region in the chart to filt
 ## Snapshot
 
 Below is a snapshot of the Global Library Data Analysis dashboard:
-[Global Library Data Analysis Dashboard](LibraryDataAnalysis.png)
+[Global Library Data Analysis Dashboard](./LibraryDataAnalysis.png)
 
 
 ## Connect with me 
